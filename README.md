@@ -1,16 +1,24 @@
-## Hi there 👋
+## Salut, moi c’est Steve 👋
 
-<!--
-**Steve97115/Steve97115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Business Analyst** en reconversion vers la Data  
+🎓 Actuellement en formation **Data Analyst** chez [HETIC](https://www.hetic.net/)  
+📍 Basée en Île-de-France | Passionnée par **la donnée**, **l'histoire** et le **gwo ka**
 
-Here are some ideas to get you started:
+## 🧠 Compétences principales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Langages & outils** : `Python`, `SQL`, `Power BI`, `Excel, Git, GitHub
+- **Testing & gestion de projet** : `Jira`, `Xray`, `Postman`
+- **No-code/Low-code** : `Flutterflow`  
+- 📊 Forte appétence pour l’analyse, l’automatisation et la visualisation de données
+
+## 🚀 Projets en cours
+- 🔎 Création d’une **application annuaire** avec Flutterflow  
+- 📈 Objectif : devenir **expert** en SQL, Python et Power BI
+
+## 🎵 Un peu plus sur moi
+
+💬 J’aime comprendre et transmettre. Curieuse et rigoureuse, je suis motivée par les projets à impact.  
+🥁 Passionnée par le **gwo ka**, j’aime connecter culture, tech et créativité.  
+
+📫 Me contacter : 
+
