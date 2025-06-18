@@ -26,5 +26,6 @@
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/>
 
-📫 Me contacter : 
+📫 Me contacter : https://www.linkedin.com/in/steve-charlosse/
+steve.charlosse@gmail.com
 
