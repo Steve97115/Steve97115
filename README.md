@@ -1,6 +1,6 @@
 ## Salut, moi c’est Steve 👋
 
-🎯 **Business Analyst** en reconversion vers la Data  
+🎯 **Business Analyst** en spécialisation vers la Data analyse et la Dataviz 
 🎓 Actuellement en formation **Data Analyst** chez [HETIC](https://www.hetic.net/)  
 📍 Basée en Île-de-France | Passionnée par **la donnée**, **l'histoire** et le **gwo ka**
 
@@ -9,16 +9,16 @@
 - **Langages & outils** : `Python`, `SQL`, `Power BI`, `Excel, Git, GitHub
 - **Testing & gestion de projet** : `Jira`, `Xray`, `Postman`
 - **No-code/Low-code** : `Flutterflow`  
-- 📊 Forte appétence pour l’analyse, l’automatisation et la visualisation de données
+- 📊 Forte appétence pour l'AMOA, l’analyse, le traitement et la visualisation de données
 
 ## 🚀 Projets en cours
-- 🔎 Création d’une **application annuaire** avec Flutterflow  
+- 🔎 Création d’une **application** avec Flutterflow  
 - 📈 Objectif : devenir **expert** en SQL, Python et Power BI
 
 ## 🎵 Un peu plus sur moi
 
-💬 J’aime comprendre et transmettre. Curieuse et rigoureuse, je suis motivée par les projets à impact.  
-🥁 Passionnée par le **gwo ka**, j’aime connecter culture, tech et créativité.  
+💬 J’aime comprendre et transmettre. Curieux et rigoureux, je suis motivé par les projets à impact.  
+🥁 Passionné par le **gwo ka**, j’aime connecter culture, tech et créativité.  
 
 📫 Me contacter : 
 
