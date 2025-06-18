@@ -10,6 +10,7 @@
 - **Testing & gestion de projet** : `Jira`, `Xray`, `Postman`
 - **No-code/Low-code** : `Flutterflow`  
 - 📊 Forte appétence pour l'AMOA, l’analyse, le traitement et la visualisation de données
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 🚀 Projets en cours
 - 🔎 Création d’une **application** avec Flutterflow  
