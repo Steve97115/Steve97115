@@ -1,8 +1,10 @@
 ## Salut, moi c’est Steve 👋
 
 🎯 **Business Analyst** en spécialisation vers la Data analyse et la Dataviz
+
 🎓 Actuellement en formation **Data Analyst** chez [HETIC](https://www.hetic.net/)  
-📍 Basée en Île-de-France | Passionnée par **la donnée**, **l'histoire** et le **gwo ka**
+
+📍 Basée en Île-de-France | Passionné par **la donnée**, **l'histoire** et le **gwo ka**
 
 ## 🧠 Compétences principales
 
